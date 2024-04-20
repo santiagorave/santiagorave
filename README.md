@@ -11,7 +11,7 @@ FrontEnd Developer
 ![](https://github-readme-stats.vercel.app/api?username=santiagorave&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santiagorave&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagorave&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username})
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=santiagorave)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=santiagorave&theme=radical&no-frame=true&no-bg=true&margin-w=4)

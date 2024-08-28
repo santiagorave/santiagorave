@@ -1,5 +1,5 @@
 # 💫 About Me:
-FrontEnd Developer
+Software Developer
 
 
 ## 🌐 Socials:
